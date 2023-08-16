@@ -1,6 +1,6 @@
 # todo-list-flask
-![App Screenshot](screenshot(68).png)
-![App Screenshot](screenshot(69).png)
+![Web Screenshot](https://github.com/Sanchi009/todo-list-flask/blob/main/Screenshot%20(68).png)
+![Web Screenshot](https://github.com/Sanchi009/todo-list-flask/blob/main/Screenshot%20(69).png)
 ## Introduction
 
 This is a simple Todo List app built using Flask and Flask-SQLAlchemy. The app allows users to create, update, and delete tasks, helping them keep track of their to-do items. This README provides an overview of the app's features, how to set it up, and how to use it.
